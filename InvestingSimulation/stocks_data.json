@@ -1,0 +1,42 @@
+{
+    "AAPL": {
+        "shares": 413.0,
+        "share_price": 39
+    },
+    "MSFT": {
+        "shares": 751.0,
+        "share_price": 31
+    },
+    "AMZN": {
+        "shares": 156.0,
+        "share_price": 81
+    },
+    "TSLA": {
+        "shares": 349.0,
+        "share_price": 50
+    },
+    "NVDA": {
+        "shares": 472.659756097561,
+        "share_price": 41
+    },
+    "GOOGL": {
+        "shares": 552.5172413793102,
+        "share_price": 58
+    },
+    "META": {
+        "shares": 141.0,
+        "share_price": 48
+    },
+    "NFLX": {
+        "shares": 335.0,
+        "share_price": 49
+    },
+    "KO": {
+        "shares": 768.0413043478262,
+        "share_price": 92
+    },
+    "MCD": {
+        "shares": 784.0,
+        "share_price": 19
+    }
+}

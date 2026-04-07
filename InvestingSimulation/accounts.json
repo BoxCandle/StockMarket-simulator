@@ -1,0 +1,19 @@
+{
+    "Radamir": {
+        "id": 1,
+        "password": "13245678",
+        "cash": 5635919.0,
+        "portfolio": {
+            "GOOGL": {
+                "owned_shares": 10,
+                "share_price": 58,
+                "value": 580
+            },
+            "AMZN": {
+                "owned_shares": 1992.3456790123457,
+                "share_price": 81,
+                "value": 161380
+            }
+        }
+    }
+}
